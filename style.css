@@ -1,0 +1,78 @@
+/* <!-- //============= Chapter 43 to 48================== -->
+
+    <!-- task 2 --> */
+/* 
+img{
+    width: 20%;
+    height: 20%;
+}
+li{display: inline;} */
+
+      /* task 3 */
+/* li{display: inline-block;}
+td{text-align: center;} */
+
+
+/* <!-- //============= Chapter 49 to 52 ================== -->*/
+
+
+/* // TASK 1 */
+
+/* 
+body{text-align: center;}
+input{
+    padding: 5px;
+    font-size: larger;
+    margin: 10px;
+}
+button{
+    padding: 5px;
+    font-size: larger;
+    margin-top: 10px;
+} */
+
+/* task 3 */
+
+/* body{
+    text-align: center;
+    font-size: x-large;
+}
+table{
+    margin: 0 auto;
+}
+.editBtn,.delBtn{
+    font-size: large;
+}
+input,.addBtn{
+    font-size: large;
+}
+td{
+    padding: 10px;
+} */
+
+
+
+ /* //=============================================== Chapter 53 to 58 =========================================== --> */
+/* 
+div{
+    display: inline-block;
+}
+img{width: 250px;
+height: 250px;
+cursor: pointer;
+}
+
+.show img{
+    width: 700px !important;
+    height: 450px !important;
+    position: relative;
+    bottom: 200px;
+    left: 300px;
+}
+.show button{
+   
+    position: relative;
+    bottom: 200px;
+    left: 980px;
+    display: none;
+} */
